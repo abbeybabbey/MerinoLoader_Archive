@@ -1,2 +1,2 @@
 # MerinoLoader_Archive
-A public archive of my IL2Cpp MelonLoader based remote server mod "loader". 
+A public archive of my IL2Cpp [MelonLoader](https://github.com/LavaGang/MelonLoader) based remote server mod "loader" for **educational purposes**. All of the code I've used or referenced can be found in the code comments of the particular .cs file, but if you feel like I've missed you feel free to contact me and correct me. The repository will be archived and this project is discontinued. Please refer to full readme here: [MerinoClient_Archive](https://github.com/abbeybabbey/MerinoClient_Archive)
